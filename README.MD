@@ -12,4 +12,4 @@
 ## Help
 如有问题，可进群交流。
 
-![1](wechat.jpg)
+![1](wechat.png)
